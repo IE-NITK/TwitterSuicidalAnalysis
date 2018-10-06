@@ -1,3 +1,16 @@
+# Code Commit Rule
+All commits to this repository should be made from branch that is not mainline and only when the branch code is reviewed (CR) by at least 2 other collaborators (except in case of minor commits), it can be pushed. Use the following commit format:
+
+`git commit -m "`
+
+`<meaningful message explaining the purpose of the commit>`
+
+`CR Needed: Yes`
+
+`Reviewers: <reviewer 1>, <reviewer 2>"`
+
+use reviewer alphabets to specify the reviewers (see README.txt of the repository)
+
 # Milestones and Work Division
 The objectives of this milestone are listed below and the work division is _group wise_ and the group information can be found in the repository's `README.md`. Objectives of evaluation meetings will be to analyze the work progress, evaluate the work done uptil then, elucidate the problems and challenges faced and how they were solved and finally discussion about the next milestone.
 
