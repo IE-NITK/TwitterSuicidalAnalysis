@@ -38,9 +38,9 @@ Start of January, 2019
 - __Validating__: Evaluation of model metrics, design consistency, reusability of code, future improvisations
 
 ### Work Division for Milestone - 3
-- __Group - I__: Modeling, 
-- __Group - II__: Modeling, 
-- __Group - III__: Modeling, 
+- __Group - I__: Modeling, Improvising, Validating
+- __Group - II__: Modeling, Improvising, Validating
+- __Group - III__: Modeling, Improvising, Validating
 
 
 #### Evaluation - III for Milestone - 3
