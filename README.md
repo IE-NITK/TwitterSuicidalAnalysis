@@ -24,6 +24,11 @@ The entire work division can be viewed at `code/README.md` of this repository.
 - Python (_ML_ and _AI_)
 - LIWC software or equivalent
 
+## Directories
+- Base code (Python): `IE-NITK/TwitterSuicidalAnalysis/code`
+- Datasets: `IE-NITK/TwitterSuicidalAnalysis/datasets`
+- References: `IE-NITK/TwitterSuicidalAnalysis/references`
+
 ## Members
 - Tushaar (T)
   - Soham (So) (Group - I)
