@@ -1,13 +1,11 @@
 # Code Commit Rule
 All commits to this repository should be made from branch that is not mainline and only when the branch code is reviewed (CR) by at least 2 other collaborators (except in case of minor commits), it can be pushed. Use the following commit format:
 
-`git commit -m "`
-
-`<meaningful message explaining the purpose of the commit>`
-
-`CR Needed: Yes`
-
-`Reviewers: <reviewer 1>, <reviewer 2>"`
+```markup
+git commit -m "<meaningful message explaining the purpose of the commit>
+               CR Needed: Yes/No
+               Reviewers: <reviewer 1>, <reviewer 2>"
+```
 
 use reviewer alphabets to specify the reviewers (see README.txt of the repository)
 
