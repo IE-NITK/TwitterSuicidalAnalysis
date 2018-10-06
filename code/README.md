@@ -1,5 +1,5 @@
 # Code Commit Rule
-All commits to this repository should be made from branch that is not mainline and only when the branch code is reviewed (CR) by at least 2 other collaborators (except in case of minor commits), it can be pushed. Use the following commit format:
+All commits to this repository should be made from __branch that is not mainline__ and only when the branch code is reviewed (__CR__) by at least 2 other collaborators (except in case of minor commits), it can be merged. Use the following commit format:
 
 ```markup
 git commit -m "<meaningful message explaining the purpose of the commit>
