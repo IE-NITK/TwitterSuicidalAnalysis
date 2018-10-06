@@ -19,6 +19,11 @@ results using known metrics.
 
 The entire work division can be viewed at `code/README.md` of this repository.
 
+## Software Requirements
+- Twitter API
+- Python (_ML_ and _AI_)
+- LIWC software or equivalent
+
 ## Members
 - Tushaar
   - Soham (I)
