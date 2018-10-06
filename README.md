@@ -26,11 +26,11 @@ The entire work division can be viewed at `code/README.md` of this repository.
 
 ## Members
 - Tushaar
-  - Soham (I)
+  - Soham (Group - I)
     - Chaitany
-  - Harsha (II)
+  - Harsha (Group - II)
     - Shrinidhi
-  - Arpith (III)
+  - Arpith (Group - III)
 
 
 ### Base Paper and References
