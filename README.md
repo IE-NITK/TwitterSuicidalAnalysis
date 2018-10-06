@@ -25,13 +25,12 @@ The entire work division can be viewed at `code/README.md` of this repository.
 - LIWC software or equivalent
 
 ## Members
-- Tushaar
-  - Soham (Group - I)
-    - Chaitany
-  - Harsha (Group - II)
-    - Shrinidhi
-  - Arpith (Group - III)
-
+- Tushaar (T)
+  - Soham (So) (Group - I)
+    - Chaitany (C)
+  - Harsha (H) (Group - II)
+    - Shrinidhi (Sh)
+  - Arpith (A) (Group - III)
 
 ### Base Paper and References
 [1]&nbsp; Burnap, P., Colombo, G., Amery, R., Hodorog, A., & Scourfield, J. (2017). 
