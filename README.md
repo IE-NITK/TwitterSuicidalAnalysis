@@ -29,6 +29,9 @@ The entire work division can be viewed at `code/README.md` of this repository.
 - Datasets: `IE-NITK/TwitterSuicidalAnalysis/datasets`
 - References: `IE-NITK/TwitterSuicidalAnalysis/references`
 
+## Installation and How to Use
+_will be updated with the project progress_ 
+
 ## Members
 - Tushaar (T)
   - Soham (So) (Group - I)
