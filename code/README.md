@@ -15,6 +15,8 @@ The objectives of this milestone are listed below and the work division is _grou
 #### Evaluation - I for Milestone - 1
 End of October, 2018
 
+<hr/>
+
 ## Milestone - 2
 - __Featuring the Features__: Creation of _feature sets_ [1], analysis of proof of concept and improvisations (if any)
 - __Let's ML__: ML algorithms (Naive Bayes, Decision Trees, etc.)
@@ -27,6 +29,8 @@ End of October, 2018
 
 #### Evaluation - II for Milestone - 2
 Start of January, 2019
+
+<hr/>
 
 ## Milestone - 3
 - __Modeling__: Applying models and dimensionality reduction techniques to features and predicting!
