@@ -1,4 +1,4 @@
-# TwitterSuicidalAnalysis
+# Twitter Suicidal Analysis
 
 
 Mining __social media__ has been the existing area of interest of many researchers mainly to obtain 
