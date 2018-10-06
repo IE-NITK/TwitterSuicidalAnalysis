@@ -7,33 +7,37 @@ The objectives of this milestone are listed below and the work division is _grou
 - __Design__: Class and Sequence diagrams based on the work flow
 - __Corpus__: Data collection and cleaning up of data
 
-# Work Division for Milestone - 1
+### Work Division for Milestone - 1
 - __Group - I__: Research + research work flow, Class diagrams
 - __Group - II__: Research + research work flow, Sequence diagrams
 - __Group - III__: Research + research work flow, Data collection, Data cleaning (_features_)
 
-_Evaluation - I_: End of October, 2018
+#### Evaluation - I for Milestone - 1
+End of October, 2018
 
 ## Milestone - 2
 - __Featuring the Features__: Creation of _feature sets_ [1], analysis of proof of concept and improvisations (if any)
 - __Let's ML__: ML algorithms (Naive Bayes, Decision Trees, etc.)
 - __Let's Research Again__: Dimensionality Reduction and Feature Selection 
 
-# Work Division for Milestone - 2
+### Work Division for Milestone - 2
 - __Group - I__: Feature set 1 + improvisations, 3 ML algorithms, 2 dimensionality reduction techniques
 - __Group - II__: Feature set 2 + improvisations, 3 ML algorithms, 2 dimensionality reduction techniques
 - __Group - III__: Feature set 3 + improvisations, 2 ML algorithms, 1 dimensionality reduction techniques
 
-_Evaluation - II_: Start of January, 2019
+#### Evaluation - II for Milestone - 2
+Start of January, 2019
 
 ## Milestone - 3
 - __Modeling__: Applying models and dimensionality reduction techniques to features and predicting!
 - __Improvising__: Using ensemble methods to improve classification accuracy
 - __Validating__: Evaluation of model metrics, design consistency, reusability of code, future improvisations
 
-# Work Division for Milestone - 3
+### Work Division for Milestone - 3
 - __Group - I__: Modeling, 
 - __Group - II__: Modeling, 
 - __Group - III__: Modeling, 
 
-_Evaluation - III_: Start of February, 2019
+
+#### Evaluation - III for Milestone - 3
+Start of February, 2019
