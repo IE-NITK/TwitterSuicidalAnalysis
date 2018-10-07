@@ -7,7 +7,7 @@ git commit -m "<meaningful message explaining the purpose of the commit>
                Reviewers: <reviewer 1>, <reviewer 2>"
 ```
 
-use reviewer alphabets to specify the reviewers (see `README.txt` of the repository). Also note the code is comment free (mostly) except when functions are declared and places where naming can't explain what you're doing.
+Use reviewer alphabets to specify the reviewers (see `README.txt` of the repository). Also note the code is to be kept _comment free_ except when functions are declared and places where naming can't explain what you're doing.
 
 <hr/>
 
