@@ -1,5 +1,5 @@
 # Code Commit Rule
-All commits to this repository should be made from __branch that is not mainline__ and only when the branch code is reviewed (__CR__) by at least 2 other collaborators (except in case of minor commits), it can be merged. Use the following commit format:
+All commits to this repository should be made from __branch that is not mainline__ (_give meaningful branch names_) and only when the branch code is reviewed (__CR__) by at least 2 other collaborators (except in case of minor commits), it can be merged. Use the following commit format:
 
 ```markup
 git commit -m "<meaningful message explaining the purpose of the commit>
@@ -7,7 +7,7 @@ git commit -m "<meaningful message explaining the purpose of the commit>
                Reviewers: <reviewer 1>, <reviewer 2>"
 ```
 
-use reviewer alphabets to specify the reviewers (see README.txt of the repository)
+use reviewer alphabets to specify the reviewers (see `README.txt` of the repository). Also note the code is comment free (mostly) except when functions are declared and places where naming can't explain what you're doing.
 
 <hr/>
 
