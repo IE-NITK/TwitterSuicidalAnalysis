@@ -9,6 +9,8 @@ git commit -m "<meaningful message explaining the purpose of the commit>
 
 use reviewer alphabets to specify the reviewers (see README.txt of the repository)
 
+<hr/>
+
 # Milestones and Work Division
 The objectives of this milestone are listed below and the work division is _group wise_ and the group information can be found in the repository's `README.md`. Objectives of evaluation meetings will be to analyze the work progress, evaluate the work done uptil then, elucidate the problems and challenges faced and how they were solved and finally discussion about the next milestone.
 
@@ -57,7 +59,9 @@ November 1, 2018
 #### Evaluation - III for Milestone - 3
 November 10, 2018
 
-## Beyond Existing Work
+<hr/>
+
+# Beyond Existing Work
 - Understand the math behind what you did!
 - Learn some DL techniques
 - New ideas and improvisations given full importance!
