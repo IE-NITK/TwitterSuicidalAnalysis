@@ -24,7 +24,7 @@ The objectives of this milestone are listed below and the work division is _grou
 - __Group - III__: Research + research work flow, Data collection, Data cleaning (_features_)
 
 #### Evaluation - I for Milestone - 1
-End of October, 2018
+October 23, 2018
 
 <hr/>
 
@@ -39,7 +39,7 @@ End of October, 2018
 - __Group - III__: Feature set 3 + improvisations, 2 ML algorithms, 1 dimensionality reduction techniques
 
 #### Evaluation - II for Milestone - 2
-Start of January, 2019
+November 1, 2018
 
 <hr/>
 
@@ -55,4 +55,9 @@ Start of January, 2019
 
 
 #### Evaluation - III for Milestone - 3
-Start of February, 2019
+November 10, 2018
+
+## Beyond Existing Work
+- Understand the math behind what you did!
+- Learn some DL techniques
+- New ideas and improvisations given full importance!
