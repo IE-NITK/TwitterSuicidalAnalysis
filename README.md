@@ -28,6 +28,7 @@ The entire work division can be viewed at `code/README.md` of this repository.
 - Base code (Python): `IE-NITK/TwitterSuicidalAnalysis/code`
 - Datasets: `IE-NITK/TwitterSuicidalAnalysis/datasets`
 - References: `IE-NITK/TwitterSuicidalAnalysis/references`
+- New Ideas (Literature and Feasibility Study): `IE-NITK/TwitterSuicidalAnalysis/ideas`
 
 ## Installation and How to Use
 _will be updated with the project progress_ 
