@@ -62,6 +62,7 @@ November 10, 2018
 <hr/>
 
 # Beyond Existing Work
+- Write Unit Tests to validate the work done!
 - Understand the math behind what you did!
 - Learn some DL techniques
 - New ideas and improvisations given full importance!
