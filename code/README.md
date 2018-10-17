@@ -12,7 +12,7 @@ Use reviewer alphabets to specify the reviewers (see `README.txt` of the reposit
 <hr/>
 
 # Milestones and Work Division
-The objectives of this milestone are listed below and the work division is _group wise_ and the group information can be found in the repository's `README.md`. Objectives of evaluation meetings will be to analyze the work progress, evaluate the work done uptil then, elucidate the problems and challenges faced and how they were solved and finally discussion about the next milestone.
+The objectives of this project are listed below and the work division is _group wise_ and the group information can be found in the repository's `README.md`. Objectives of evaluation meetings will be to analyze the work progress, evaluate the work done uptil then, elucidate the problems and challenges faced and how they were solved and finally discussion about the next milestone.
 
 ## Milestone - 1
 - __Getting Started__: Introduction to ML, Git, Python, Object Oriented Analysis and Design
