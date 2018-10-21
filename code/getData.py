@@ -15,7 +15,7 @@ auth.set_access_token(access_token, access_secret)
 api = tweepy.API(auth)
 
 # Open/create a file to write data to
-csvFile = open('result1.csv','w')
+csvFile = open('TwitterRawData.csv','w')
 
 #Use csv writer
 csvWriter = csv.writer(csvFile)
