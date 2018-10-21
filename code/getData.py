@@ -15,7 +15,7 @@ auth.set_access_token(access_token, access_secret)
 api = tweepy.API(auth)
 
 # Open/create a file to write data to
-csvFile = open('result.csv','w')
+csvFile = open('result1.csv','w')
 
 #Use csv writer
 csvWriter = csv.writer(csvFile)
@@ -43,7 +43,7 @@ words = ['Asleep and never wake','Just want to sleep forever','Take my own life'
 
 for word in words:
 	print(word)
-	c = tweepy.Cursor(api.search, q=word).items()
+	c = tweepy.Cursor(api.search, q=word).items(3000)
 	while True:
 		try:
 			tweet = c.next()
