@@ -43,12 +43,14 @@ words = ['Asleep and never wake','Just want to sleep forever','Take my own life'
 
 for word in words:
 	print(word)
-	c = tweepy.Cursor(api.search, q=word).items(3000)
+	c = tweepy.Cursor(api.search, q=word , tweet_mode='extended').items(3000)
 	while True:
 		try:
 			tweet = c.next()
-			# Insert into file
-			csvWriter.writerow([tweet.text])
+			if not tweet.retweeted and 'RT @' not in tweet.full_text:
+				
+				# Insert into file
+				csvWriter.writerow([tweet.full_text])
 		except tweepy.TweepError:
 			time.sleep(60 * 15)
 			continue
