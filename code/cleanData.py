@@ -5,9 +5,13 @@ import html.parser
 import re
 from textblob import TextBlob
 import csv
+import numpy as np
+import random
 
 
 data = pd.read_csv("../datasets/TwitterRawData.csv")
+data = data.reindex(np.random.permutation(data.index))
+
 csvFile = open('../datasets/suicideTweetData.csv','w')
 csvWriter = csv.writer(csvFile)
 
@@ -32,3 +36,4 @@ def preprocess(tweet):
 for i in range(data.shape[0]):
 	tweet = data.iloc[i][0]
 	preprocess(tweet)
+
